@@ -29,6 +29,7 @@ public static int multiply(int a, int b) {
             System.out.println("Add: " + add(x, y));
             System.out.println("Subtract: " + subtract(x, y));
             System.out.println("Multiply: " + multiply(x, y));
+            System.out.println("divide: " + divide(x, y));
         }
     }
 
